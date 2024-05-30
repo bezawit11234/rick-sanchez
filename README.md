@@ -26,5 +26,5 @@ Bootstrap for styling.
 Contact
 Your Name - #Bezawit Mgersa - beza.mege@gmail.com
 
-Project Link:[ https://github.com/yourusername/rick-sanchez](https://rick-and-morty-film-website.netlify.app)
+Project Link:[ The Rick and morty films](https://rick-and-morty-film-website.netlify.app)
 
