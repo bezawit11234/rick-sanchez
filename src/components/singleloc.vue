@@ -82,9 +82,8 @@ const { result, loading, error } = useQuery(LOCATION_DETAILS_QUERY, { id });
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0px;
+  padding: 20px;
   background-color: #092513;
-  color: gold;
   font-family: 'Times New Roman', Times, serif;
   font-weight: 500;
   font-size: x-large;
@@ -92,20 +91,19 @@ const { result, loading, error } = useQuery(LOCATION_DETAILS_QUERY, { id });
   top: 0;
   width: 100%;
   z-index: 1000; 
-  height: 60px;
-  
+  height: 60px; /* Assuming an estimated height */
 }
 
 .nav {
-  flex: 1;
+  /* flex: 1; */
   text-align: right;
 }
 
 .nav-link {
-      list-style-type: none;
-    display: inline-flex;
-    gap: 100px;
-    padding: 0;
+    list-style: none;
+    display: flex;
+    gap: 40px;
+    padding-right: 32px;
     margin: 0;
 }
 .nav-item{
