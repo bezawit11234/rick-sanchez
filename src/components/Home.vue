@@ -8,16 +8,16 @@
       <nav class="nav">
         <ul class="nav-link">
           <li>
-            <a class="nav-item" href="/">Home</a>
+            <router-link class="nav-item" to="/">Home</router-link>
           </li>
           <li>
-            <a class="nav-item" href="/seasons">Episodes</a>
+            <router-link class="nav-item" to="/seasons">Episodes</router-link>
           </li>
           <li>
-            <a class="nav-item" href="/characters">Character</a>
+            <router-link class="nav-item" to="/characters">Character</router-link>
           </li>
           <li>
-            <a class="nav-item" href="/location">Location</a>
+            <router-link class="nav-item" to="/location">Location</router-link>
           </li>
         </ul>
       </nav>
@@ -338,15 +338,15 @@ export default {
 }
 
 .nav {
-  flex: 1;
+  /* flex: 1; */
   text-align: right;
 }
 
 .nav-link {
-      list-style-type: none;
-    display: inline-flex;
-    gap: 100px;
-    padding: 0;
+    list-style: none;
+    display: flex;
+    gap: 40px;
+    padding-right: 32px;
     margin: 0;
 }
 .logo img {
@@ -536,9 +536,7 @@ export default {
 
 }
 
-.imgs {
-  /* flex-shrink: 0; Prevent the image container from shrinking */
-}
+
 
 .imgs img {
   max-width: 100%; /* Make sure the image is responsive */
