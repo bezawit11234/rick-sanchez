@@ -88,7 +88,7 @@ export default {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px;
+  padding: 0px;
   background-color: #092513;
   font-family: 'Times New Roman', Times, serif;
   font-weight: 500;
