@@ -97,8 +97,7 @@ const { result, loading, error } = useQuery(LOCATION_DETAILS_QUERY, { id });
 }
 
 .nav {
-  flex: 1;
-  text-align: right;
+  text-align: center;
 }
 
 .nav-link {

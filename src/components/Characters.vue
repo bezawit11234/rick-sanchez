@@ -107,8 +107,7 @@ export default {
 }
 
 .nav {
-  flex: 1;
-  text-align: right;
+  text-align: center;
 }
 
 .nav-link {

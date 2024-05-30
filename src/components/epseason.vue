@@ -91,8 +91,7 @@ const { result, loading, error } = useQuery(EPISODE_DETAILS_QUERY);
 }
 
 .nav {
-  flex: 1;
-  text-align: right;
+  text-align: center;
 }
 
 .nav-link {
