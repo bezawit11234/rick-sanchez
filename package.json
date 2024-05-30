@@ -1,0 +1,27 @@
+{
+  "name": "rick",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.10.4",
+    "@chenfengyuan/vue-carousel": "^2.0.0",
+    "@vue/apollo-composable": "^4.0.2",
+    "@vue/apollo-util": "^4.0.0-beta.6",
+    "graphql": "^16.8.1",
+    "graphql-tag": "^2.12.6",
+    "swiper": "^11.1.3",
+    "vue": "^3.4.21",
+    "vue-route": "^1.5.1",
+    "vue-router": "^4.3.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.2.0"
+  }
+}
