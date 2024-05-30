@@ -537,7 +537,7 @@ export default {
 }
 
 .imgs {
-  flex-shrink: 0; /* Prevent the image container from shrinking */
+  /* flex-shrink: 0; Prevent the image container from shrinking */
 }
 
 .imgs img {
