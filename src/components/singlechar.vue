@@ -4,16 +4,16 @@
       <nav class="nav">
         <ul class="nav-link">
           <li>
-            <a class="nav-item" href="/">Home</a>
+            <router-link class="nav-item" to="/">Home</router-link>
           </li>
           <li>
-            <a class="nav-item" href="/seasons">Episodes</a>
+            <router-link class="nav-item" to="/seasons">Episodes</router-link>
           </li>
           <li>
-            <a class="nav-item" href="/characters">Character</a>
+            <router-link class="nav-item" to="/characters">Character</router-link>
           </li>
           <li>
-            <a class="nav-item" href="/location">Location</a>
+            <router-link class="nav-item" to="/location">Location</router-link>
           </li>
         </ul>
       </nav>
@@ -80,7 +80,7 @@ const { result, loading, error } = useQuery(CHARACTER_DETAILS_QUERY);
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px;
+  padding: 0px;
   background-color: #092513;
   color: gold;
   font-family: 'Times New Roman', Times, serif;
@@ -106,7 +106,9 @@ const { result, loading, error } = useQuery(CHARACTER_DETAILS_QUERY);
     padding: 0;
     margin: 0;
 }
-
+.nav-item{
+  color: gold;
+}
 
 .container {
   background-color: #092513;
