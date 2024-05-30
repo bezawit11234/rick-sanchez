@@ -325,7 +325,6 @@ export default {
   align-items: center;
   padding: 20px;
   background-color: #092513;
-  color: gold;
   font-family: 'Times New Roman', Times, serif;
   font-weight: 500;
   font-size: x-large;
@@ -347,6 +346,9 @@ export default {
     gap: 40px;
     padding-right: 32px;
     margin: 0;
+}
+.nav-item{
+  color: gold;
 }
 .logo img {
   max-width: 150px;
