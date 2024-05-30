@@ -315,6 +315,7 @@ export default {
 .home-container {
   background-color: #092513;
   color: #cbd5e0;
+  padding: -10px;
   min-height: 100vh;
   padding-top: 80px;
 }
