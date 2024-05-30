@@ -107,7 +107,7 @@ export default {
 
 .nav {
    flex: 1; 
-  text-align: right;
+  text-align: left;
 }
 
 .nav-link {
