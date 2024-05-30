@@ -26,7 +26,7 @@
       <p class="episode-detail">Air Date: {{ result.episode.air_date }}</p>
       <p class="episode-detail">Episode: {{ result.episode.episode }}</p>
       <p class="episode-detail">Created: {{ result.episode.created }}</p>
-    </div>
+    
     <h2 class="characters-title">Characters</h2>
     <div class="characters-grid">
       <div v-for="character in result.episode.characters" :key="character.id" class="character-card">
@@ -36,6 +36,7 @@
         <p class="character-detail">Species: {{ character.species }}</p>
         <p class="character-detail">Gender: {{ character.gender }}</p>
       </div>
+    </div>
     </div>
   </div>
 </template>
