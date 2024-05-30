@@ -95,7 +95,7 @@ const { result, loading, error } = useQuery(LOCATION_DETAILS_QUERY, { id });
 }
 
 .nav {
-  flex: -10; 
+  flex: 1; 
   text-align: right;
 }
 

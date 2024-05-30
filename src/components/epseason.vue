@@ -90,7 +90,7 @@ const { result, loading, error } = useQuery(EPISODE_DETAILS_QUERY);
 }
 
 .nav {
-  /* flex: 1; */
+  flex: 1; 
   text-align: right;
 }
 

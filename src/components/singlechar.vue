@@ -94,7 +94,7 @@ const { result, loading, error } = useQuery(CHARACTER_DETAILS_QUERY);
 }
 
 .nav {
-  /* flex: 1; */
+  flex: 1; 
   text-align: right;
 }
 
