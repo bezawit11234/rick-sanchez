@@ -87,11 +87,11 @@
       <span class="boxl">44 Nominations</span>
     </div>
     <div class="season">
-      <a href="/seasons" class="season-link">
+      <router-link class="season-link" to="/seasons">
                 <h3 class="season-title">SEASON 1</h3>
                 <svg class="arrow-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                         <path d="M8.59,16.58L13.17,12L8.59,7.41L10,6l6,6l-6,6L8.59,16.58z"/>
-                    </svg></a> 
+                    </svg> </router-link>
                 <span class="tag">Top rated</span>
                 <p class="description">It introduces viewers to the wild and wacky adventures of mad scientist Rick Sanchez and his hesitant grandson Morty. With 11 mind-bending episodes, this season kicks off a journey through bizarre dimensions, and hilariously dark humor.</p>
                 <span class="year">2013-2014</span>
@@ -99,11 +99,11 @@
                 <div class="middle-line"></div>
             </div>
             <div class="season">
-              <a href="/seasons" class="season-link">
+              <router-link class="season-link" to="/seasons">Episodes
                 <h3 class="season-title">SEASON 2</h3>
                 <svg class="arrow-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                         <path d="M8.59,16.58L13.17,12L8.59,7.41L10,6l6,6l-6,6L8.59,16.58z"/>
-                    </svg></a>
+                    </svg></router-link>
                 <span class="tag">Top rated</span>
                 <p class="description">In Season 2 of 'Rick and Morty,' the madcap adventures continue as Rick and Morty journey through even more outrageous dimensions and face off against bizarre foes. With 10 episodes packed with humor, heart, and interdimensional chaos.</p>
                 <span class="year">2015</span>
@@ -111,11 +111,11 @@
                 <div class="middle-line"></div>
             </div>
             <div class="season">
-              <a href="/seasons" class="season-link">
+              <router-link class="season-link" to="/seasons">
                 <h3 class="season-title">SEASON 3</h3>
                 <svg class="arrow-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                         <path d="M8.59,16.58L13.17,12L8.59,7.41L10,6l6,6l-6,6L8.59,16.58z"/>
-                    </svg></a>
+                    </svg></router-link>
                 <span class="tag">Top rated</span>
                 <p class="description">The season kicks off with Rick breaking out of prison, setting the stage for even more outrageous escapades. From battling alien governments to confronting his own vulnerabilities, Rick takes Morty and the rest of the family on a journey filled with humor, satire, and unexpected twists.</p>
                 <span class="year">2017</span>
@@ -123,11 +123,11 @@
                 <div class="middle-line"></div>
             </div>
             <div class="season">
-              <a href="/seasons" class="season-link">
+              <router-link class="season-link" to="/seasons">
                 <h3 class="season-title">SEASON 4</h3>
                 <svg class="arrow-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                         <path d="M8.59,16.58L13.17,12L8.59,7.41L10,6l6,6l-6,6L8.59,16.58z"/>
-                    </svg></a>
+                    </svg></router-link>
                 <span class="tag">Top rated</span>
                 <p class="description">The season sees Rick and Morty tackling everything from intergalactic heists to navigating complex family dynamics. Meanwhile, the supporting cast, including Jerry, Beth, and Summer, each grapple with their own personal challenges and growth.</p>
                 <span class="year">2019-2020</span>
@@ -135,11 +135,11 @@
                 <div class="middle-line"></div>
             </div>
             <div class="season">
-              <a href="/seasons" class="season-link">
+              <router-link class="season-link" to="/seasons">
                 <h3 class="season-title">SEASON 5</h3>
                 <svg class="arrow-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                         <path d="M8.59,16.58L13.17,12L8.59,7.41L10,6l6,6l-6,6L8.59,16.58z"/>
-                    </svg></a>
+                    </svg></router-link>
                 <span class="tag">Top rated</span>
                 <p class="description">The season sees Rick, Morty, and the rest of the Smith family embarking on a series of mind-bending escapades across the multiverse. From facing off against bizarre creatures to navigating complex family dynamics, each episode presents a new and outrageous scenario.</p>
                 <span class="year">2021</span>
@@ -147,11 +147,11 @@
                 <div class="middle-line"></div>
             </div>
             <div class="season">
-              <a href="/seasons" class="season-link">
+              <router-link class="season-link" to="/seasons">
                 <h3 class="season-title">SEASON 6</h3>
                 <svg class="arrow-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                         <path d="M8.59,16.58L13.17,12L8.59,7.41L10,6l6,6l-6,6L8.59,16.58z"/>
-                    </svg></a>
+                    </svg></router-link>
                 <span class="tag">Top rated</span>
                 <p class="description"> The season explores themes of identity, power, and the consequences of Rick's actions all while maintaining the show's trademark blend of irreverent humor and poignant moments.  As the duo grapples with their own personal growth and the dynamics of their dysfunctional family.
 </p>
@@ -160,11 +160,11 @@
                 <div class="middle-line"></div>
             </div>
             <div class="season">
-              <a href="/seasons" class="season-link">
+              <router-link class="season-link" to="/seasons">
                 <h3 class="season-title">SEASON 7</h3>
                 <svg class="arrow-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                         <path d="M8.59,16.58L13.17,12L8.59,7.41L10,6l6,6l-6,6L8.59,16.58z"/>
-                    </svg></a>
+                    </svg></router-link>
                 <span class="tag">Top rated</span>
                 <p class="description">It continue exploring the adventures of the characters, delving into the complexities of the multiverse, and offering a mix of humor,satire, and existential themes. Each season also tends to push the boundaries of storytelling and animation while providing social commentary and exploring character development.</p>
                 <span class="year">2023</span>
@@ -203,7 +203,7 @@
         </div>
       </div> 
       <div class="all-characters">
-        <a href="/characters">All Characters</a>
+        <router-link class="nav-item" to="/characters">All Characters</router-link>
       </div>
     </div>
 
