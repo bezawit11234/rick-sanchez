@@ -95,7 +95,7 @@ const { result, loading, error } = useQuery(CHARACTER_DETAILS_QUERY);
 }
 
 .nav {
-  text-align: center;
+  text-align: right;
 }
 
 .nav-link {
