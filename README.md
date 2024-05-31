@@ -12,16 +12,18 @@ View Character Details: Click on any character to see detailed information about
 Episode Details: Click on an episode to get detailed information, including a summary and a list of characters featured in that episode.
 location detail:Click on an location to get detailed information
 # The programm language we use
-vue.js
-Html5
-tailwindcss
-javascript
-css
+vue.js,
+ Html5,
+ tailwindcss,
+ javascript,
+ css
 
 Acknowledgements
 Rick and Morty API for providing the data.
 Vue.js for the front-end framework.
 Css for styling.
+
+
 Contact
 Your Name - #Bezawit Mgersa - beza.mege@gmail.com
 
